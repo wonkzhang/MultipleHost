@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Server: WeiBo
+Date: Sat, 26 Apr 2014 06:15:02 GMT
+Content-Type: text/html
+Connection: close
+Vary: Accept-Encoding
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Sat, 26 Apr 2014 06:15:02 GMT
+Cache-Control: no-cache, must-revalidate
+Pramga: no-cache
+P3P: CP="CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+DPOOL_HEADER: surtur176
+LB_HEADER: alice59
+Content-Length: 10952
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="qc:admins" content="2400071020276375747716" />
+<title>微博-随时随地分享身边的新鲜事儿</title>
+</head>
+<body class="B_login_mini  ">
+	test
+</body>
+</html>
